@@ -24,7 +24,7 @@ class NavBar extends Component {
                         <ul className="navbar-links">
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/storefront">Store</Link></li>
-                            <li><Link to="/shoppingcart">Shopping Cart</Link></li>
+                            <li><Link to="/shoppingCart">Shopping Cart</Link></li>
                         </ul>
                     </div>
                 </div>
